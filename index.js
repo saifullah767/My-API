@@ -13,7 +13,7 @@ app.get("/", (req, res) => {
 })
 
 app.get("/folder_data", (req, res) => {
-    res.send(require("./db.json/folder_data"))
+    res.send(require("./db.json"))
 
 })
 
