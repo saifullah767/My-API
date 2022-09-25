@@ -17,6 +17,11 @@ app.get("/folder_data", (req, res) => {
 
 })
 
+app.post("/folder_data", (req, res) => {
+    res.send(require("./db.json"))
+
+})
+
 app.listen(port, () => {
   console.log("i am here")
 })
