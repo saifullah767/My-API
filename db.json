@@ -1,0 +1,150 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "json-server",
+        "author": "typicode"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    },
+    "people": [
+      {
+        "id": 6,
+        "name": "Abdul",
+        "title": "Front-end Developer",
+        "email": "lindsay.walton@example.com",
+        "role": "Member"
+      },
+      {
+        "name": "saifullahjuj",
+        "email": "sadasdad@gmailo.cpk",
+        "title": "asdasdasd",
+        "id": 7
+      },
+      {
+        "name": "saifullahjuj",
+        "email": "sadasdad@gmailo.cpk",
+        "title": "asdasdasd",
+        "id": 8
+      },
+      {
+        "name": "saifullahjuj",
+        "email": "sadasdad@gmailo.cpk",
+        "title": "asdasdasd",
+        "id": 9
+      },
+      {
+        "name": "saifullahjuj",
+        "email": "sadasdad@gmailo.cpk",
+        "title": "asdasdasd",
+        "id": 10
+      },
+      {
+        "name": "saifullahjuj",
+        "email": "sadasdad@gmailo.cpk",
+        "title": "asdasdasd",
+        "id": 11
+      },
+      {
+        "name": "saifullahjuj",
+        "email": "sadasdad@gmailo.cpk",
+        "title": "asdasdasd",
+        "id": 12
+      },
+      {
+        "name": "saifullahjuj",
+        "email": "sadasdad@gmailo.cpk",
+        "title": "asdasdasd",
+        "id": 13
+      },
+      {
+        "name": "saifullahjuj",
+        "email": "sadasdad@gmailo.cpk",
+        "title": "asdasdasd",
+        "id": 14
+      },
+      {
+        "name": "saifullah khan jmali",
+        "email": "saif.ahmed@gmail.com",
+        "title": "Testing",
+        "id": 18
+      }
+    ],
+    "folder_data": [
+      {
+        "id": 2,
+        "name": "Black Friday 2022",
+        "title": "Checklists for Black Friday 2022",
+        "role": "3",
+        "email": "janecooper@example.com"
+      },
+      {
+        "id": 3,
+        "name": "Ultimate Marketing Checklists",
+        "title": "Checklists for all things but Marketing",
+        "role": "5",
+        "email": "janecooper@example.com"
+      },
+      {
+        "id": 3,
+        "name": "Black Friday 2022",
+        "title": "Checklists for Black Friday 2022",
+        "role": "4",
+        "email": "janecooper@example.com"
+      },
+      {
+        "id": 4,
+        "name": "Ultimate Marketing Checklists",
+        "title": "Checklists for all things but Marketing",
+        "role": "4",
+        "email": "janecooper@example.com"
+      },
+      {
+        "id": 5,
+        "name": "Black Friday 2022",
+        "title": "Checklists for Black Friday 2022",
+        "role": "4",
+        "email": "janecooper@example.com"
+      },
+      {
+        "id": 6,
+        "name": "Ultimate Marketing Checklists",
+        "title": "Checklists for all things but Marketing",
+        "role": "4",
+        "email": "janecooper@example.com"
+      },
+      {
+        "id": 7,
+        "name": "Black Friday 2022",
+        "title": "Checklists for Black Friday 2022",
+        "role": "4",
+        "email": "janecooper@example.com"
+      },
+      {
+        "id": 8,
+        "name": "Ultimate Marketing Checklists",
+        "title": "Checklists for all things but Marketing",
+        "role": "4",
+        "email": "janecooper@example.com"
+      },
+      {
+        "name": "sample",
+        "title": "testing folder",
+        "id": 10
+      },
+      {
+        "name": "saifullah",
+        "title": "kjdehlkde",
+        "id": 11
+      }
+    ]
+  }

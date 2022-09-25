@@ -1,0 +1,26 @@
+{
+  "name": "my-api",
+  "version": "1.0.0",
+  "description": "This is SAIF's API For testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saifullah767/My-API.git"
+  },
+  "author": "SAIF",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saifullah767/My-API/issues"
+  },
+  "homepage": "https://github.com/saifullah767/My-API#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  },
+  "engines": {
+    "node": "16.17.0"
+  }
+}
